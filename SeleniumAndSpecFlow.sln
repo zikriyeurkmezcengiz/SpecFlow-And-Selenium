@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumAndSpecFlow", "SeleniumAndSpecFlow\SeleniumAndSpecFlow.csproj", "{FCC1B412-5DD5-447C-B514-49FBCB929BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateQA-Automation", "UltimateQA-Automation\UltimateQA-Automation.csproj", "{D3B21D7C-5F57-4736-ACDA-02CAC3E4C7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillShare", "SkillShare\SkillShare.csproj", "{B4854B9B-0C33-4D39-9256-2F1D3E9C2595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC1B412-5DD5-447C-B514-49FBCB929BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC1B412-5DD5-447C-B514-49FBCB929BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC1B412-5DD5-447C-B514-49FBCB929BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC1B412-5DD5-447C-B514-49FBCB929BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B21D7C-5F57-4736-ACDA-02CAC3E4C7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B21D7C-5F57-4736-ACDA-02CAC3E4C7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B21D7C-5F57-4736-ACDA-02CAC3E4C7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B21D7C-5F57-4736-ACDA-02CAC3E4C7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4854B9B-0C33-4D39-9256-2F1D3E9C2595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4854B9B-0C33-4D39-9256-2F1D3E9C2595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4854B9B-0C33-4D39-9256-2F1D3E9C2595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4854B9B-0C33-4D39-9256-2F1D3E9C2595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

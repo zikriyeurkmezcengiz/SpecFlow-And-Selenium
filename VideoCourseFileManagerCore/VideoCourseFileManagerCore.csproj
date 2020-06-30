@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="StaticData\" />
+    <Folder Include="LocalVideoCollection\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CSharpFunctionalExtensions" Version="2.7.1" />
+  </ItemGroup>
+</Project>
